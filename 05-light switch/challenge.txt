@@ -2,8 +2,8 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser.
 Seu objetivo é descobrir qual interruptor controla qual lâmpada.
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
-R:
-Primeiro, eu ligo o primeiro interruptor e deixo ligado por uns 15 minutos para que a lâmpada esquente muito.
+
+R: Primeiro, eu ligo o primeiro interruptor e deixo ligado por uns 15 minutos para que a lâmpada esquente muito.
 Depois eu ligo o segundo interruptor e deixo ligado por 2 minutos.
 Agora vou para uma das salas. Se ao tocar a lâmpada ela estiver muito quente o interruptor que a controle é o primeiro que liguei.
 Se ela nao estiver tão quente o interruptor que a controla é o segundo que liguei.

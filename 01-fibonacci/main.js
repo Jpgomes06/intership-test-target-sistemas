@@ -14,6 +14,7 @@ function generateFibonacciSequence(maxLimit) {
     }
     return fibonacci;
 }
+
 /**
  * Function to check if a number belongs to the Fibonacci sequence
  * @param {number} number - Number to be checked
@@ -23,6 +24,7 @@ function isFibonacci(number) {
     const fibonacciSequence = generateFibonacciSequence(number);
     return fibonacciSequence.includes(number);
 }
+
 /**
  * Function to display the result to the user
  * @param {number} number - Number to be checked
@@ -33,5 +35,6 @@ function displayFibonacciCheck(number) {
         : `${number} does not belong to the Fibonacci sequence.`;
     console.log(message);
 }
+
 const numberToCheck = 13;
 displayFibonacciCheck(numberToCheck);
