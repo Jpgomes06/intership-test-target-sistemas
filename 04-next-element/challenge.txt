@@ -20,5 +20,3 @@ R: A lógica é o valor atual + o valor anterior (Fibonacci).
 
 f) 2, 10, 12, 16, 17, 18, 19, (200)
 R: A lógica é todos os números que começam com a letra "D".
-
-
