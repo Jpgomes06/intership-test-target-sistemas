@@ -14,6 +14,7 @@ function countLetterA(inputString) {
     }
     return count;
 }
+
 /**
  * Displays the result of the letter 'a' check to the user.
  * @param {string} inputString - The string to check for the letter 'a'.
