@@ -1,0 +1,27 @@
+Observe o trecho de código abaixo:
+
+int INDICE = 12,
+SOMA = 0,
+K = 1;
+
+enquanto K < INDICE
+faça {
+    K = K + 1;
+    SOMA = SOMA + K;
+}
+
+imprimir(SOMA);
+
+Ao final do processamento, qual será o valor da variável SOMA?
+R: 65.
+
+3 + 2 = 5
+4 + 5 = 9
+5 + 9 =14
+6 + 14 = 20
+7 + 20 = 27
+8 + 27 = 35
+9 + 35 = 44
+10 + 44 = 54
+11 + 54 = 65 //
+
