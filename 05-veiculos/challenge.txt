@@ -1,0 +1,11 @@
+Dois veículos, um carro e um caminhão, saem respectivamente de cidades opostas pela mesma rodovia. O carro, de Ribeirão Preto em direção a Barretos, a uma velocidade constante de 90 km/h, e o caminhão, de Barretos em direção a Ribeirão Preto, a uma velocidade constante de 80 km/h. Quando eles se cruzarem no percurso, qual estará mais próximo da cidade de Ribeirão Preto?
+
+a) Considerar a distância de 100km entre a cidade de Ribeirão Preto <-> Franca.
+R: Quando o carro e o caminhão se cruzarem, os dois estarão na mesma distância de Ribeirão Preto.
+Isso ocorre porque no momento em que se encontram eles terão percorrido a mesma quantidade de tempo, independentemente de suas velocidades.
+
+b)Considerar 3 pedágios como obstáculo e que o carro leva 5 minutos a mais para passar em cada um deles, pois ele não possui dispositivo de cobrança de pedágio.
+R:Os pedágios impactam apenas o tempo de viagem do carro, que leva 5 minutos a mais em cada um dos três pedágios. Isso afeta apenas o tempo total que o carro levaria para completar o percurso, mas não influencia o fato de que no momento em que os dois veículos se encontram eles estão na mesma distância de Ribeirão Preto.
+
+c) Explique como chegou no resultado.
+R:O resultado foi alcançado considerando que quando dois veículos se movem em direção oposta, independentemente de suas velocidades ou obstáculos como pedágios, ao se cruzarem eles estão exatamente no mesmo ponto da estrada. Então a distância até qualquer cidade será a mesma para ambos os veículos.
