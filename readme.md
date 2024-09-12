@@ -7,28 +7,29 @@
 
 ## Como executar 
 
-1 - Fibonacci 
+1 - Soma
 ```bash
-node ./01-fibonacci/main.js 
+cat ./01-soma/challenge.txt
 ```
-2 - String
+2 - Next element
 ```bash
-node ./02-string/main.js 
+cat ./02-next-element/challenge.txt
 ```
-3 - Soma
+3 - Faturamento
 ```bash
-cat ./03-soma/challenge.txt
+node ./03-faturamento/main.js
 ```
-4 - Next element
+4 - Database
 ```bash
-cat ./04-next-element/challenge.txt
+cat ./04-database/challenge.txt 
 ```
-5 - Light switch
+5 - Veiculos
 ```bash
-cat ./05-light-switch/challenge.txt
+cat ./05-veiculos/challenge.txt 
+
 ```
 ## Conclusão
-Achei simples e divertido o desafio, especialmente o desafio 4 (next-element), pois me lembrou o início da minha jornada, quando estava aprendendo lógica com Portugol.
+Achei um desafio tranquilo, mas trabalhoso. Em alguns dos desafios me lembrou quando iniciei os estudos na programação na época de lógica com Portugol e estudando para o Enem.
 
 ## Contato
 * [Email](jpgomes06@hotmail.com) 
